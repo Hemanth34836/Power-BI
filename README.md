@@ -4,18 +4,18 @@ This repository features a collection of Power BI projects that demonstrate expe
 
 Project Highlights
 
-Kushi Stores and Sales Dashboard
+1) Kushi Stores and Sales Dashboard
 
 Analyzed sales trends, customer behavior, and inventory levels.
 Provided insights to improve revenue generation and optimize stock management.
 Key Visuals: KPI cards and trend lines.
 
-Weather Forecasting Dashboard
+2) Weather Forecasting Dashboard
 
 Weather Trends: Visualized temperature, precipitation, and humidity trends over time for different locations.
 Use Cases: Designed for industries like agriculture, logistics, and travel planning.
 
-Shopping Trends Dashboard
+3) Shopping Trends Dashboard
 
 Customer Behavior Analysis: Insights into purchase frequency, average basket size, and preferred shopping times.
 Category Performance: Evaluated sales performance by product categories, brands, and regions.
@@ -23,7 +23,7 @@ Trend Identification: Highlighted seasonal trends and top-selling products.
 Demographic Segmentation: Breakdown of customer profiles based on age, gender, and location for targeted marketing.
 Interactive Filters: Enabled drill-down analysis for detailed performance reviews.
 
-Online Sales Dashboard
+4) Online Sales Dashboard
 
 Sales Performance Monitoring: Key metrics such as total revenue, average order value, and conversion rates.
 Real-Time Tracking: Displayed up-to-date sales data with automatic refresh features.
